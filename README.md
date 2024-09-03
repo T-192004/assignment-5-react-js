@@ -1,4 +1,4 @@
-In this project, let's build a **Jobby App** by applying the concepts we have learned till now.
+For Live this site, click on this URL "https://jobbyapptanvi.ccbp.tech/login"
 
 ### Refer to videos below:
 
